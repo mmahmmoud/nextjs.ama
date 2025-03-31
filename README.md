@@ -10,28 +10,8 @@
 | Authentication | Auth.js, Google Auth, Magic Link |
 | Others         | uploadthing, resend, zod, etc    |
 
-[![Next.js MongoDB Amazona](/public/images/app.png)](https://next-mongo-ecommerce-final.vercel.app/)
 
-## Watch Video Tutorial
 
-[![Next.js MongoDB Amazona](https://i9.ytimg.com/vi/WLHCPwqHzzQ/mqdefault.jpg?v=676eca94&sqp=CIzAv7sG&rs=AOn4CLDrL8ebdZ8YJyJp96oMMKBTyAD1Dw)](https://youtu.be/WLHCPwqHzzQ)
-
-## View Demo Website
-
-https://next-mongo-ecommerce-final.vercel.app/
-
-## What you will learn
-
-- creating e-commerce website pages by next.js server components
-- designing header, footer, sidebar, menu and search box by shadcn and tailwind
-- quick view products in modals using nextjs parallel routes with intercepting routes
-- create database models by Mongoose and MongoDB database
-- handling form inputs by react-hook-forms and zod data validator
-- updating data by server actions without using any api
-- managing shopping cart using http cookies on server side
-- handling authentication and authorization by next-auth
-- creating customer dashboard to update profile and track orders
-- and implement a fully-functional admin dashboard with beautiful charts and handling products, orders and users
 
 ## Run Locally
 
